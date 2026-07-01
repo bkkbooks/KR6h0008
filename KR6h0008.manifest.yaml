@@ -1,0 +1,142 @@
+canonical_identifier: bkk:krp/KR6h0008/v1
+canonical_location: https://kanripo.org/bkk/KR6h0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大集大虛空藏菩薩所問經
+  identifiers:
+    alt_id:
+    - T13n0404
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T13/T13n0404.xml
+    old_id: T13n0404
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0008_000.yaml, hash: 'sha256:3df09d898088b535c74ab280f45811cecda01cc83e7e48800083eb987aad7291'}
+  - {seq: 1, filename: KR6h0008_001.yaml, hash: 'sha256:eeaf82ada781fb564bab0f69b8f1b669a08ec25010914a9e3e60976a79cb0bfc'}
+  - {seq: 2, filename: KR6h0008_002.yaml, hash: 'sha256:f3c9b23f301f3f5d2d111a32c1307fb0f60c2ca05f6bdf1732fd5148c8799f02'}
+  - {seq: 3, filename: KR6h0008_003.yaml, hash: 'sha256:a390f99a7ac9730bfdf113a1a8be5ec10bbcd029b04e5d5c2b3374f5367c13a8'}
+  - {seq: 4, filename: KR6h0008_004.yaml, hash: 'sha256:dc7e37494f1373330cb7d6b65ccc202e71b140d8bca697ffbca7e023b1c3f8fd'}
+  - {seq: 5, filename: KR6h0008_005.yaml, hash: 'sha256:772e9631f2ab75d1e37ae156c28e79e0bf20ceaccdfe69b8b6b1aff2efea5c9f'}
+  - {seq: 6, filename: KR6h0008_006.yaml, hash: 'sha256:dc8f41ccb74c13d5ddc96fae28c383e2c72ae3665710eeff6f778f0f03c39872'}
+  - {seq: 7, filename: KR6h0008_007.yaml, hash: 'sha256:7e14991db13d57ea3440b39c560d6755f558e6438be6d651667d0814d764eb9a'}
+  - {seq: 8, filename: KR6h0008_008.yaml, hash: 'sha256:2d08d2437f4a618b302b97af63aefa95251baf7db88ca0f3b0f6828de2514b0b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6h0008_001.markers.yaml, hash: 'sha256:953cb13dac1e300bbf239639048fef7916edc8f6ab0aa0b36e9269bb02ce4c86'}
+  - {seq: 2, role: markers, filename: assets/KR6h0008_002.markers.yaml, hash: 'sha256:8daf5acd225797ad6e734d9a84ac038255bc6faee99911831652ab865ef82894'}
+  - {seq: 3, role: markers, filename: assets/KR6h0008_003.markers.yaml, hash: 'sha256:b5cf3cc67d90b71d56274f649d60acd787db936ebb53b7822081e508e31cf1b1'}
+  - {seq: 4, role: markers, filename: assets/KR6h0008_004.markers.yaml, hash: 'sha256:5d75bfe740b88974344a920f116c24e255303b3b0e1574f3da3a031df4209159'}
+  - {seq: 5, role: markers, filename: assets/KR6h0008_005.markers.yaml, hash: 'sha256:a61e1e542b2fa04c1a9438607f5cbdda95a8dd1be93aaa1df6a25f958138c2e0'}
+  - {seq: 6, role: markers, filename: assets/KR6h0008_006.markers.yaml, hash: 'sha256:0713a4fa42472d40fa6577617fd8b8cfc5f9912712a27dd8f071e6539de3019c'}
+  - {seq: 7, role: markers, filename: assets/KR6h0008_007.markers.yaml, hash: 'sha256:9d2e9908a79f3d56524e50b8ea35fd15c21cedc2274226ecd1768029e9faca5f'}
+  - {seq: 8, role: markers, filename: assets/KR6h0008_008.markers.yaml, hash: 'sha256:9a74ff988a7ea398ef76fc14f96ce4988d306a3289cb31115cd319c3b22e2bcf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6h0008_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6137
+  label: '大集大虛空藏菩薩所問經卷第
+
+    一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0008_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6394
+  label: '大集大虛空藏菩薩所問經卷第
+
+    二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0008_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6475
+  label: '大集大虛空藏菩薩所問經卷第
+
+    三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0008_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5355
+  label: '大集大虛空藏菩薩所問經卷第
+
+    四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0008_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7175
+  label: '大集大虛空藏菩薩所問經卷第
+
+    五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0008_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 4474
+  label: '大集大虛空藏菩薩所問經卷第
+
+    六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6h0008_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5717
+  label: '大集大虛空藏菩薩所問經卷
+
+    第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6h0008_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 5783
+  label: '大集大虛空藏菩薩所問經卷
+
+    第八'
+  type: juan
+  level: 1
+hash: sha256:07d242d3410645c899481cbcba1c9fc4052965b19e12ca86359451cfff82c430
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
